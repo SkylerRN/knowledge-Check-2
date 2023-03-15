@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8hZngCcRtBPjPL6EiRP3SzfxORryTqiiz7yW03yng4OmiZx5NyDNOD8laM3zsRzExBEydcEqcTgNuO9moz29A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skyle\\source\\repos\\knowledgeCheck2\\knowledgeCheck2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skyle\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\skyle\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
